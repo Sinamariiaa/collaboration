@@ -1,0 +1,13 @@
+Person 1 - Create a new repository (can be the same as you created following the tutorial but should no be the same as the one where you hand in your report)
+
+Person 2 - Fork the GitHub project that Person 1 created in Step 1.
+
+Person 2 - Create a new file in this project
+
+Person 2 - Commit and push these changes to this project. Create a pull request to the original project of Person 1.
+
+Person 1 - Review the pull request from Person 2. Provide some comments, accept the pull request, letting it the new code by Person 2 be integrated into the project.
+
+Person 1 - Add a new file to your own project, and update the GitHub project.
+
+Person 2 - Sync your forked project to integrate the changes made by Person 1 into your own repository.
